@@ -1,4 +1,4 @@
-package com.sap.gs.cct.tsconnector;
+package com.incloud.hcp;
 
 public class EmbarcacionDto {
     private String  codigoEmbarcacion;

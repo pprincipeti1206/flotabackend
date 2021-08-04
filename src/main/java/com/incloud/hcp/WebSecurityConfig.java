@@ -1,4 +1,4 @@
-package com.sap.gs.cct.tsconnector;
+package com.incloud.hcp;
 
 import com.sap.cloud.security.xsuaa.XsuaaServiceConfiguration;
 import com.sap.cloud.security.xsuaa.token.TokenAuthenticationConverter;

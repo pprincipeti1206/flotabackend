@@ -23,6 +23,6 @@
 	
   	<!-- request metrics are reported using INFO level, so make sure the instrumentation loggers are set to that level -->
     <logger name="com.sap.hcp.cf" level="INFO" />
-    <logger name="com.sap.gs.cct.tsconnector" level="DEBUG" />
+    <logger name="com.incloud.hcp" level="DEBUG" />
     	
 </configuration>
