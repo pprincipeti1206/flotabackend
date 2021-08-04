@@ -25,10 +25,10 @@ public class CallBAPI {
 	) throws Exception{
 		//Parametro dto = new Parametro();
 		List<EmbarcacionDto> listaEmbarcacion = new ArrayList<EmbarcacionDto>();
-		logger.error("listaEmbarcacion_1");;
+		logger.error("listaEmbarcacion_1_1_1");;
 		JCoDestination destination = JCoDestinationManager.getDestination("TASA_DEST_RFC");
 		//JCo
-		logger.error("listaEmbarcacion_2");;
+		logger.error("listaEmbarcacion_2_2_2");;
 		JCoRepository repo = destination.getRepository();
 		logger.error("listaEmbarcacion_3");;
 		JCoFunction stfcConnection = repo.getFunction("ZFL_RFC_CONS_EMBARCA");
