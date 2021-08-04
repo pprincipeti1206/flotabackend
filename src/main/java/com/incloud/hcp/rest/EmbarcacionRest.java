@@ -30,7 +30,7 @@ public class EmbarcacionRest {
     private JCOEmbarcacionService jcoEmbarcacionService;
 
    /* @Autowired
-    private JCOGrupoArticuloServiceNew jcoGrupoArticuloServiceNew;*/
+    private JCOGrupoArticuloServiceNew jcoGrupoArticuloServiceNew;h*/
 
 
 
